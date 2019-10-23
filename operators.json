@@ -25,5 +25,32 @@
 	  {"nome": "a_ying"},
 	  {"nome": "a_zofia"},
 	  {"nome": "a_lion"},
-	]
+	  {"nome": "a_lion"}
+	],
+	"difesa":[
+		{"nome": "d_bandit"},
+		{"nome": "d_castle"},
+		{"nome": "d_caveira"},
+		{"nome": "d_clash"},
+		{"nome": "d_doc"},
+		{"nome": "d_echo"},
+		{"nome": "d_ela"},
+		{"nome": "d_frost"},
+		{"nome": "d_jager"},
+		{"nome": "d_kaid"},
+		{"nome": "d_kapkan"},
+		{"nome": "d_lesion"},
+		{"nome": "d_maestro"},
+		{"nome": "a_jackal"},
+		{"nome": "d_mira"},
+		{"nome": "d_mozzie"},
+		{"nome": "d_mute"},
+		{"nome": "d_pulse"},
+		{"nome": "d_rook"},
+		{"nome": "d_smoke"},
+		{"nome": "d_tachanka"},
+		{"nome": "d_valkyrie"},
+		{"nome": "d_vigil"},
+		{"nome": "d_warden"}
+	  ]
 }
